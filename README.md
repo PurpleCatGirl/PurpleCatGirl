@@ -1,5 +1,5 @@
 - 👋 hi, i’m @PurpleCatGirl - aka PCG or viola
-- 👀 i’m a queer plural author who occasionally dabbles with code
+- 👀 i’m a queer plural author who occasionally dabbles with code (and hardware, & 3d printing, & ...)
 - 😄 pronouns: she/her/hers
 
 <!---
