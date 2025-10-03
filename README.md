@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PurpleCatGirl
-- 👀 I’m a queer plural author who occasionally dabbles with code
-- 😄 Pronouns: she/her/hers
+- 👋 hi, i’m @PurpleCatGirl - aka PCG or viola
+- 👀 i’m a queer plural author who occasionally dabbles with code
+- 😄 pronouns: she/her/hers
 
 <!---
 PurpleCatGirl/PurpleCatGirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
